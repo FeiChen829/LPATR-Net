@@ -4,7 +4,7 @@ Here is the source code for the Pytorch implementation of our paper:
 
 **LPATR-Net: Learnable Piecewise Affine Transformation Regression Assisted Data-Driven Dehazing Framework**
 
-Since bigger than `50M` supplementary could not be uploaded, we are very sorry the pre-trained model could not be provided. We have appended all training codes to ensure the training process could be easily conducted.
+ We have appended all training codes to ensure the training process could be easily conducted.
 
 **The repository includes:**
 
