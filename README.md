@@ -5,7 +5,9 @@ Here is the source code for the Pytorch implementation of our paper:
 **LPATR-Net: Learnable Piecewise Affine Transformation Regression Assisted Data-Driven Dehazing Framework**
 
  We have appended all training codes to ensure the training process could be easily conducted.
-
+ 
+ Supplementary materials are available at https://www.alipan.com/s/B396Ro82EQA
+ 
 **The repository includes:**
 
 1. Dependencies.
@@ -134,3 +136,4 @@ If you want to test the effect on a single image,  run the following code.
 ```bash
 $ python test_single_image.py   --pre_model_path {The path to the pre-trained model} --input_file_path {The path to a hazy picture}  --output_file_path {The path to save the dehaze image}
 ```
+
